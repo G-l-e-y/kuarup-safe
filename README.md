@@ -1,6 +1,6 @@
 # kuarupsafe
 
-A new Flutter project.
+Venha conhecer nossa aplicação!
 
 ## Getting Started
 
