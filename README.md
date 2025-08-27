@@ -1,4 +1,4 @@
-# kuarupsafe
+# Kuarup Safe
 
 Venha conhecer nossa aplicação!
 
