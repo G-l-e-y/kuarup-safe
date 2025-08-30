@@ -1,5 +1,5 @@
-name: kuarupsafe
-description: "A new Flutter project."
+name: kuarup_safe
+description: Um aplicativo de segurança com alerta e geolocalização.
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -30,7 +30,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  geolocator: ^11.0.0
 
+  intl: ^0.18.1
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.8
